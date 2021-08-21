@@ -8,7 +8,7 @@
 
 1. Conhecer a linguagem
    1. [Parte 01 - Introdução à nova versão da linguagem](https://github.com/ffsf-filho/alura-python3/tree/main/jogos)
-   2. Parte 02 - Avançando na linguagem
+   2. [Parte 02 - Avançando na linguagem](https://github.com/ffsf-filho/alura-python3/tree/main/jogos)
    3. Parte 03 - Introdução a Orientação a Objetos
 2. Aprofundar na orientação a objetos
    1. Parte 04 - Avançando na Orientação a Objetos
