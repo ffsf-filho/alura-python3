@@ -11,7 +11,7 @@
    2. [Parte 02 - Avançando na linguagem](https://github.com/ffsf-filho/alura-python3/tree/main/jogos)
    3. [Parte 03 - Introdução a Orientação a Objetos](https://github.com/ffsf-filho/alura-python3/tree/main/bytebank)
 2. Aprofundar na orientação a objetos
-   1. Parte 04 - Avançando na Orientação a Objetos
+   1. [Parte 04 - Avançando na Orientação a Objetos](https://github.com/ffsf-filho/alura-python3/tree/main/aluraflix)
    2. Parte 05 - String em Python, extraindo informações de uma URL
    3. Parte 06 - Python Collections parte 1, lista e tuplas
    4. Parte 07 - Python Collections parte 2, conjuntos e dicionários
