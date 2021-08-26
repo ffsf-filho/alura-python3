@@ -14,7 +14,7 @@
    1. [Parte 04 - Avançando na Orientação a Objetos](https://github.com/ffsf-filho/alura-python3/tree/main/aluraflix)
    2. [Parte 05 - String em Python, extraindo informações de uma URL](https://github.com/ffsf-filho/alura-python3/tree/main/manipulando_str)
    3. [Parte 06 - Python Collections parte 1, lista e tuplas](https://github.com/ffsf-filho/alura-python3/tree/main/colecoes)
-   4. Parte 07 - Python Collections parte 2, conjuntos e dicionários
+   4. [Parte 07 - Python Collections parte 2, conjuntos e dicionários](https://github.com/ffsf-filho/alura-python3/tree/main/colecoes)
 3. Trabalhar com formatos de dados
    1. Parte 08 - Python Brasil, Validação de dados no padrão nacional
 4. Fazer testes automatizados
