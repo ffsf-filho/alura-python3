@@ -18,7 +18,7 @@
 3. Trabalhar com formatos de dados
    1. [Parte 08 - Python Brasil, Validação de dados no padrão nacional](https://github.com/ffsf-filho/alura-python3/tree/main/brasilidades)
 4. Fazer testes automatizados
-   1. Parte 09 - Testes automatizados: TDD com Python
+   1. [Parte 09 - Testes automatizados: TDD com Python](https://github.com/ffsf-filho/alura-python3/tree/main/leilao)
 
 ### Downloading
 
